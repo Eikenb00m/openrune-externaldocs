@@ -1,5 +1,5 @@
 config:
-  - name: Ub3r-OS Server
+  - name: OpenRune Test Server
     jav_config_url: http://play.exorth.net:8060/jav_config.ws
     varp_count: 15000
     revision: 241
